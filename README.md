@@ -1,0 +1,1 @@
+# minimal-stm32
